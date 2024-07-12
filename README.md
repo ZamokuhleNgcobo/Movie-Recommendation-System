@@ -12,18 +12,6 @@ Content-Based Filtering: Recommends movies similar to those a user has liked bas
 Collaborative Filtering: Recommends movies based on the preferences and ratings of similar users.
 Prediction: Predicts how a user will rate a movie using machine learning algorithms.
 Evaluation: Metrics such as accuracy, precision, recall, and Mean Absolute Error (MAE) are used to evaluate the model’s performance.
-Economic and Social Impact
-The successful implementation of this recommendation system can:
-
-Enhance user experience by suggesting movies aligned with their preferences.
-Increase user engagement and platform affinity by exposing users to relevant content.
-Drive revenue through increased content consumption and user satisfaction.
-Getting Started
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/movie-recommendation-system.git
-Install dependencies:
-
 
 pip install -r requirements.txt
 Usage
